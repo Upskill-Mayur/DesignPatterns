@@ -5,3 +5,6 @@
 /AbstractFactory/obj/Debug
 /AbstractFactory/bin/Debug
 /FactoryPattern/obj/Release
+/FactoryPattern/obj/Debug
+/FactoryPattern/bin/Debug
+/.vs/DesignPatterns/v16/.suo
