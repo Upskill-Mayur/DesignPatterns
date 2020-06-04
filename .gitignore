@@ -8,3 +8,6 @@
 /FactoryPattern/obj/Debug
 /FactoryPattern/bin/Debug
 /.vs/DesignPatterns/v16/.suo
+/FactoryPattern/bin/Release
+/AbstractFactory/obj/Release
+/AbstractFactory/bin/Release
