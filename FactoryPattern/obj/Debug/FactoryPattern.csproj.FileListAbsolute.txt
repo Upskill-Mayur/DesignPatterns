@@ -1,7 +1,0 @@
-E:\Study\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
-E:\Study\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
-E:\Study\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
-E:\Study\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
-E:\Study\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
-E:\Study\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
-E:\Study\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
