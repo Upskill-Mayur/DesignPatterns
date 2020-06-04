@@ -3,3 +3,5 @@
 ################################################################################
 
 /AbstractFactory/obj/Debug
+/AbstractFactory/bin/Debug
+/FactoryPattern/obj/Release
