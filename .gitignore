@@ -11,3 +11,9 @@
 /FactoryPattern/bin/Release
 /AbstractFactory/obj/Release
 /AbstractFactory/bin/Release
+/Singleton/obj/Debug
+/Singleton/bin/Debug
+/packages/MSTest.TestFramework.2.1.1/lib
+/packages/MSTest.TestFramework.2.1.1
+/Singleton/obj/Release
+/Singleton/bin/Release
