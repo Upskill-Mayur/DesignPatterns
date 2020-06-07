@@ -17,3 +17,5 @@
 /packages/MSTest.TestFramework.2.1.1
 /Singleton/obj/Release
 /Singleton/bin/Release
+/Decorator/bin
+/Decorator/obj
